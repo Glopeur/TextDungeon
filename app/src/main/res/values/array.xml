@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saves">
+        <item>Save Slot 1</item>
+        <item>Save Slot 2</item>
+        <item>Save Slot 3</item>
+    </string-array>
+
+    <string-array name="room_empty">
+        <item>Empty room</item>
+        <item>Nothing Here</item>
+        <item>Nothing but dust</item>
+        <item>Lets try another room</item>
+        <item>Empty as ever</item>
+        <item>Looks like there is nothing here</item>
+        <item>Something on the floor !\nOh its just my shadow...</item>
+    </string-array>
+</resources>

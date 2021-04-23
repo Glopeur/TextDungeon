@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">TextDungeon</string>
+    <string name="new_game">New Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="help_desc">This is a text-based game where you need to get a Chest. But you might need to retrieve items before this.\n\n\nOh and care about the Demon.</string>
+
+    <string name="about_desc">New version available:
+    \n    - New Game Button
+    \n    - Load Game Button
+    \n    - Help Button
+    \n    - About Button
+    \n    - Exit Button</string>
+
+    <string name="default_room">Room #0</string>
+
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_west">W</string>
+    <string name="cardinal_east">E</string>
+    <string name="cardinal_south">S</string>
+
+    <string name="pickup">Pickup</string>
+    <string name="inventory">Inventory</string>
+
+    <string name="leaving">Are you sure you want to exit ? Unsaved progression will be lost.</string>
+    <string name="leaving_confirm">Leave</string>
+    <string name="leaving_deny">Cancel</string>
+
+    <string name="save">Select a slot to save your progression.</string>
+
+    <string name="load_desc">Select which save to load</string>
+    <string name="load_slot_1">Slot 1</string>
+    <string name="load_slot_2">Slot 2</string>
+    <string name="load_slot_3">Slot 3</string>
+
+    <string name="end_win">You won</string>
+    <string name="end_death">You are dead</string>
+    <string name="end_desc">Do you want to load a game ?</string>
+    <string name="end_confirm">Load</string>
+    <string name="end_deny">Exit</string>
+
+    <string name="demon_killed">You killed the Demon</string>
+    <string name="demon_noshield">The Demon killed you.\nTry to get a Shield</string>
+    <string name="demon_nosword">The Demon killed you.\nTry to get a Sword</string>
+    <string name="demon_noitems">The Demon killed you.\nTry to get a Sword and a Shield</string>
+
+    <string name="item_found">There is something on the ground</string>
+</resources>

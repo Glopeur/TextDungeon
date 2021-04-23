@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items name="items">
+
+    <id>0</id>
+    <name>Sword</name>
+    <desc>A shiny sword</desc>
+
+    <id>1</id>
+    <name>Shield</name>
+    <desc>What a nice shield</desc>
+
+    <id>2</id>
+    <name>Chest</name>
+    <desc>Now we have some money</desc>
+
+</items>
